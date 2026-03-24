@@ -1,5 +1,3 @@
-## 
-
 # Interests
 * Crypto, DeFi 
 * Piano, Music Theory
